@@ -12,7 +12,7 @@ This project contains shell scripts developed to perform system auditing tasks o
 - script3.sh - Audits directories and permissions  
 - script4.sh - Searches log file for keyword  
 - script5.sh - Generates manifesto file  
-- manifesto_divyansh.txt - Output file  
+- manifesto_shrish.txt - Output file  
 
 ## How to Run
 
